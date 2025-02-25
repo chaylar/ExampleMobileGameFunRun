@@ -1,0 +1,17 @@
+Library: C:\Dev\Unity\ExampleMobileGameFunRun\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--platform=Android
+--backend=burst-llvm-16
+--target=ARMV7A_NEON32
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--target-framework=NetFramework
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Dev\Unity\ExampleMobileGameFunRun\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.30f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Dev\Unity\ExampleMobileGameFunRun\Library\Burst
+--output=C:\Dev\Unity\ExampleMobileGameFunRun\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+
+

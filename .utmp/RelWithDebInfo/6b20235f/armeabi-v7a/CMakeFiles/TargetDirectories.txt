@@ -1,0 +1,5 @@
+C:/Dev/Unity/ExampleMobileGameFunRun/.utmp/RelWithDebInfo/6b20235f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Dev/Unity/ExampleMobileGameFunRun/.utmp/RelWithDebInfo/6b20235f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Dev/Unity/ExampleMobileGameFunRun/.utmp/RelWithDebInfo/6b20235f/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Dev/Unity/ExampleMobileGameFunRun/.utmp/RelWithDebInfo/6b20235f/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Dev/Unity/ExampleMobileGameFunRun/.utmp/RelWithDebInfo/6b20235f/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

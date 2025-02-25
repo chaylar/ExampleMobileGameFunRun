@@ -1,0 +1,1 @@
+C:\Dev\Unity\ExampleMobileGameFunRun\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6b20235f\obj\armeabi-v7a
