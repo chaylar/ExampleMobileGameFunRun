@@ -37,15 +37,15 @@ namespace SkiddyFunRace.Scripts.Handlers.PlayerHandlers
 
             if (_isApplyingBreak)
             {
-                if(_rigidBody.velocity.magnitude > 0)
-                    _rigidBody.velocity -= (_rigidBody.velocity * Time.deltaTime * breakForce);
+                if(_rigidBody.linearVelocity.magnitude > 0)
+                    _rigidBody.linearVelocity -= (_rigidBody.linearVelocity * Time.deltaTime * breakForce);
                 
                 return;
             }
 
             _rigidBody.AddForce(transform.forward * acceleration * Time.deltaTime);
-            if (_rigidBody.velocity.magnitude > speed)
-                _rigidBody.velocity = _rigidBody.velocity.normalized * speed;
+            if (_rigidBody.linearVelocity.magnitude > speed)
+                _rigidBody.linearVelocity = _rigidBody.linearVelocity.normalized * speed;
         }
 
         private void TurnRight()
@@ -97,7 +97,7 @@ namespace SkiddyFunRace.Scripts.Handlers.PlayerHandlers
             _isLeft = true;
             _isStarted = false;
             transform.eulerAngles = _left;
-            _rigidBody.velocity = Vector3.zero;
+            _rigidBody.linearVelocity = Vector3.zero;
             transform.position = resetPosition;
         }
 
